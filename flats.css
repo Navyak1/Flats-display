@@ -1,0 +1,162 @@
+.home-bg-image {
+            background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+            height: 100vh;
+            background-size: cover;
+        }
+
+        .card {
+            text-align: center;
+            background-color: #ffffff;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            padding: 25px;
+        }
+
+        .home-heading {
+            font-family: Bree serif;
+            color: #f19116;
+            font-size: 23px;
+            margin: 10px;
+        }
+
+        .home-paragraph {
+            font-family: Bree serif;
+            color: #7b8794;
+            font-size: 15px;
+            margin: 10px;
+        }
+
+        .home-button {
+            font-family: Bree serif;
+            color: #ffffff;
+            font-size: 14px;
+            background-color: #f19116;
+            border-radius: 3px;
+            border-width: 0px;
+            height: 30px;
+            width: 90px;
+            margin: 10px;
+
+        }
+
+        .button-container {
+            text-align: center;
+        }
+
+
+        .secPage-background-color {
+            background-color: #222222;
+            background-size: cover;
+            height: 103vh;
+            padding: 8px;
+        }
+
+        .secPage-head {
+            color: #f19116;
+            font-family: Bree serif;
+            font-size: 25px;
+            margin: 10px;
+        }
+
+        .card1 {
+            background-color: #ffffff;
+            margin: 10px;
+            border-radius: 8px;
+            padding: 0px;
+        }
+
+        .secPage-images {
+            height: 150px;
+            width: 85px;
+        }
+
+        .secPage-card-head {
+            font-family: Bree serif;
+            font-weight: bold;
+            font-size: 19px;
+            color: #222222;
+            margin: 7px;
+        }
+
+        .secPage-card-para {
+            font-family: Bree serif;
+            font-size: 12px;
+            color: #7b8794;
+            margin: 7px;
+        }
+
+        .secPage-button {
+            background-color: #f19116;
+            color: #ffffff;
+            font-size: 13px;
+            height: 30px;
+            width: 85px;
+            border-width: 0px;
+            border-radius: 5px;
+            margin: 10px;
+        }
+
+        .detailedView-bg-color {
+            background-color: #222222;
+            height: 100vh;
+            background-size: cover;
+        }
+
+        .detailedView-flat {
+            height: 40vh;
+            width: 100vw;
+        }
+
+        .detailedView-head {
+            color: #f19116;
+            font-family: Bree serif;
+            font-size: 28px;
+            margin: 10px;
+        }
+
+        .loc-plus-para {
+            margin: 15px;
+        }
+
+        .location-pointer {
+            height: 30px;
+            width: 30px;
+        }
+
+        .detailedView-para {
+            color: #ffffff;
+            font-family: Bree serif;
+            font-size: 15px;
+            margin: 3px;
+        }
+
+        .horizontal-line {
+            background-color: #ffffff;
+            width: 90vw;
+            margin: 15px;
+        }
+
+        .description-head {
+            color: #f19116;
+            font-size: 25px;
+            font-family: Bree serif;
+            margin: 15px;
+        }
+
+        .description-para {
+            color: #ffffff;
+            font-size: 15px;
+            font-family: Bree serif;
+            margin: 15px;
+        }
+
+        .confirm-button {
+            height: 32px;
+            width: 90px;
+            border-width: 0px;
+            border-radius: 3px;
+            color: #ffffff;
+            font-size: 13px;
+            background-color: #f19116;
+            margin: 7px;
+        }
